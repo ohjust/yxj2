@@ -1,1 +1,1 @@
-# yxj2
+# yxj2-shuttle
